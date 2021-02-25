@@ -89,11 +89,11 @@
             "scaleInDock": 1
         },
         "floor0.json": {
-            "scale": 0.5,
-            "selectedLayer": -1,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1390,
-                "y": 1384
+                "x": 959.3333333333333,
+                "y": 1096.6666666666665
             }
         },
         "floor0.json#tilesets_deviant_milkian_1": {
@@ -132,11 +132,11 @@
             }
         },
         "floor4.json": {
-            "scale": 0.75,
-            "selectedLayer": 29,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2373.333333333333,
-                "y": 1838.6666666666665
+                "x": 1034,
+                "y": 2957.333333333333
             }
         },
         "floor4.json#tilesets_deviant_milkian_1": {
@@ -162,7 +162,7 @@
         "/home/mc/test-map/tpt4-echelle120.json"
     ],
     "project": "telecom.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "tilesets_deviant_milkian_1.tsx",
         "floor0.json.json",
