@@ -89,11 +89,11 @@
             "scaleInDock": 1
         },
         "floor0.json": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 959.3333333333333,
-                "y": 1096.6666666666665
+                "x": 5403,
+                "y": 2271
             }
         },
         "floor0.json#tilesets_deviant_milkian_1": {
