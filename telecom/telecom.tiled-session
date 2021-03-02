@@ -90,10 +90,10 @@
         },
         "floor0.json": {
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 2708,
-                "y": 2631
+                "x": 2474,
+                "y": 2467
             }
         },
         "floor0.json#tilesets_deviant_milkian_1": {
@@ -108,46 +108,46 @@
             }
         },
         "floor1.json": {
-            "scale": 0.125,
-            "selectedLayer": 0,
+            "scale": 0.33,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 3344,
-                "y": 1132
+                "x": 1884.8484848484848,
+                "y": 3295.4545454545455
             }
         },
         "floor2.json": {
-            "scale": 3,
-            "selectedLayer": 1,
+            "scale": 1,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 859.6666666666666,
-                "y": 1159
+                "x": 2739,
+                "y": 2576.5
             }
         },
         "floor3.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1092,
-                "y": 1184
+                "x": 2738,
+                "y": 2775
             }
         },
         "floor4.json": {
-            "scale": 0.125,
-            "selectedLayer": 23,
+            "scale": 0.33,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 3304,
-                "y": 3360
+                "x": 3490.909090909091,
+                "y": 1925.757575757576
             }
         },
         "floor4.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
         "floor5.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "scale": 0.33,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 2286.6666666666665,
-                "y": 2986.6666666666665
+                "x": 3866.6666666666665,
+                "y": 2765.151515151515
             }
         },
         "tilesets_deviant_milkian_1.tsx": {
@@ -162,7 +162,7 @@
         "/home/mc/test-map/tpt4-echelle120.json"
     ],
     "project": "telecom.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "tilesets_deviant_milkian_1.tsx",
         "floor0.json.json",
